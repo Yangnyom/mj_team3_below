@@ -1,23 +1,28 @@
 using UnityEngine;
-using UnityEngine.InputSystem; 
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D rb;
+    private SpriteRenderer spriteRenderer;
+
     public float moveSpeed = 5f;
     public float jumpForce = 7f;
     private bool isGrounded;
+
+    public Sprite idleSprite;
+    public Sprite moveSprite;
 
     private float moveInput;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
-    
         moveInput = 0f;
         if (Keyboard.current != null)
         {
@@ -28,6 +33,17 @@ public class PlayerMovement : MonoBehaviour
         }
 
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+
+        if (moveInput != 0)
+        {
+            spriteRenderer.sprite = moveSprite; 
+            spriteRenderer.flipX = (moveInput < 0); 
+        }
+        else
+        {
+            spriteRenderer.sprite = idleSprite;
+        }
+
 
         if (Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame && isGrounded)
         {
