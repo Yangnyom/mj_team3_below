@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
 
     public float moveSpeed = 5f;
-    public float jumpForce = 7f;
+    public float jumpForce = 5f;
     private bool isGrounded;
 
     public Sprite idleSprite;
@@ -44,8 +44,7 @@ public class PlayerMovement : MonoBehaviour
             spriteRenderer.sprite = idleSprite;
         }
 
-
-        if (Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame && isGrounded)
+        if (Keyboard.current != null && (Keyboard.current.wKey.wasPressedThisFrame || Keyboard.current.upArrowKey.wasPressedThisFrame) && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false;
