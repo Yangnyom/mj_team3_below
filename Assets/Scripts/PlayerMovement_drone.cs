@@ -22,7 +22,7 @@ public class PlayerMovement_drone : MonoBehaviour
     private const float maxFloatDuration = 1.5f;
 
     public Sprite bulletSprite;
-    public float bulletSpeed = 15f;
+    public float bulletSpeed = 5f;
 
     void Start()
     {
