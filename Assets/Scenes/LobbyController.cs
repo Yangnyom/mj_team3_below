@@ -3,9 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class LobbyController : MonoBehaviour
 {
-    // 사격장 버튼을 누르면 ShootingScene으로 이동
-    public void GoToShootingScene()
+    // Play 버튼을 누르면 GameScene으로 이동
+    public void GoToGameScene()
     {
-        SceneManager.LoadScene("ShootingScene");
+        SceneManager.LoadScene("GameScene");
     }
 }
