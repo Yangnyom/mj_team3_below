@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ee071ec34e8c22469eb728f62a4c47f
+guid: 8867d12a3cb73b14b8b81056dc95c0bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1208040086343421634
-    second: image_0
+      213: -2548219475019708280
+    second: neon_upgrade_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image_0
+      name: neon_upgrade_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1792
-        height: 701
+        width: 1160
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ce8eecde02d3c010800000000000000
-      internalID: 1208040086343421634
+      spriteID: 888c7b573e7e2acd0800000000000000
+      internalID: -2548219475019708280
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      image_0: 1208040086343421634
+      neon_upgrade_0: -2548219475019708280
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

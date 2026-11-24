@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 40e3e04ee0b0acb4da4dbc2c653e05a0
+guid: 5af145c8321498d49b1508c66ea0e419
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6553404731330480315
-    second: "\uC784\uC2DC \uC0AC\uC9C4_0"
+      213: -9194833439588087969
+    second: neon_resume_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\uC784\uC2DC \uC0AC\uC9C4_0"
+      name: neon_resume_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 6
         y: 0
-        width: 682
-        height: 420
+        width: 1148
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 547bea74e11ad05a0800000000000000
-      internalID: -6553404731330480315
+      spriteID: f570878f3b3656080800000000000000
+      internalID: -9194833439588087969
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\uC784\uC2DC \uC0AC\uC9C4_0": -6553404731330480315
+      neon_resume_0: -9194833439588087969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
