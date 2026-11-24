@@ -6,7 +6,7 @@ public class PauseMenuController : MonoBehaviour
     [Header("일시정지 패널 (ESC 누르면 등장)")]
     public GameObject pausePanel;
 
-    [Header("이동할 타이틀 씬 이름")]
+    [Header("타이틀 씬 이름")]
     public string titleSceneName = "TitleScene";
 
     private bool isPaused = false;
@@ -46,10 +46,13 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 1f;
     }
 
-    public void GoToTitle()
+    // 타이틀 버튼을 눌렀을 때 호출할 함수
+    public void GoToTitleScene()
     {
         isPaused = false;
         Time.timeScale = 1f;
-        SceneManager.LoadScene(titleSceneName);
+
+        string targetScene = string.IsNullOrWhiteSpace(titleSceneName) ? "TitleScene" : titleSceneName;
+        SceneManager.LoadScene(targetScene);
     }
 }
