@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 7ed368a34a5e7b04ebb77e52fa09246e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3183934201722850792
+    second: damaged-road-and-car_0
+  - first:
+      213: 3457803565014700575
+    second: damaged-road-and-car_1
+  - first:
+      213: -2948489760100107935
+    second: damaged-road-and-car_2
+  - first:
+      213: 6080956232988943879
+    second: damaged-road-and-car_3
+  - first:
+      213: 3958957762565391500
+    second: damaged-road-and-car_4
+  - first:
+      213: -6341431507324256759
+    second: damaged-road-and-car_5
+  - first:
+      213: -8218200872210141737
+    second: damaged-road-and-car_6
+  - first:
+      213: -8453183604227024682
+    second: damaged-road-and-car_7
+  - first:
+      213: 2576041888591897550
+    second: damaged-road-and-car_8
+  - first:
+      213: 3507471435246157174
+    second: damaged-road-and-car_9
+  - first:
+      213: 4492963703501410428
+    second: damaged-road-and-car_10
+  - first:
+      213: 6574374857119805365
+    second: damaged-road-and-car_11
+  - first:
+      213: 7336060318645130762
+    second: damaged-road-and-car_12
+  - first:
+      213: -5060420560771250519
+    second: damaged-road-and-car_13
+  - first:
+      213: -7325877446172125121
+    second: damaged-road-and-car_14
+  - first:
+      213: -1810656888468394886
+    second: damaged-road-and-car_15
+  - first:
+      213: -8285809764311471109
+    second: damaged-road-and-car_16
+  - first:
+      213: 1157319701305391524
+    second: damaged-road-and-car_17
+  - first:
+      213: 2299060279818543266
+    second: damaged-road-and-car_18
+  - first:
+      213: -2947496167834342796
+    second: damaged-road-and-car_19
+  - first:
+      213: -3942164206327115301
+    second: damaged-road-and-car_20
+  - first:
+      213: -609303087095601411
+    second: damaged-road-and-car_21
+  - first:
+      213: -4565836472785913299
+    second: damaged-road-and-car_22
+  - first:
+      213: -4954364968385011415
+    second: damaged-road-and-car_23
+  - first:
+      213: 5833927609792650150
+    second: damaged-road-and-car_24
+  - first:
+      213: -4311680992334089254
+    second: damaged-road-and-car_25
+  - first:
+      213: -1175764711360091777
+    second: damaged-road-and-car_26
+  - first:
+      213: -2683845396749153010
+    second: damaged-road-and-car_27
+  - first:
+      213: 7637154201485552178
+    second: damaged-road-and-car_28
+  - first:
+      213: 2398960781071328055
+    second: damaged-road-and-car_29
+  - first:
+      213: 5134604625529970679
+    second: damaged-road-and-car_30
+  - first:
+      213: 6461423906515489914
+    second: damaged-road-and-car_31
+  - first:
+      213: -5858877788343518411
+    second: damaged-road-and-car_32
+  - first:
+      213: 4065088640517318344
+    second: damaged-road-and-car_33
+  - first:
+      213: -4970443013982319272
+    second: damaged-road-and-car_34
+  - first:
+      213: 6439130898324209902
+    second: damaged-road-and-car_35
+  - first:
+      213: 3999378639629823329
+    second: damaged-road-and-car_36
+  - first:
+      213: -2028206964324298354
+    second: damaged-road-and-car_37
+  - first:
+      213: -7272061591707374466
+    second: damaged-road-and-car_38
+  - first:
+      213: -459928032184215501
+    second: damaged-road-and-car_39
+  - first:
+      213: -6258240536236791396
+    second: damaged-road-and-car_40
+  - first:
+      213: 4846415543708083852
+    second: damaged-road-and-car_41
+  - first:
+      213: -7254442242950130144
+    second: damaged-road-and-car_42
+  - first:
+      213: -5762671693479769344
+    second: damaged-road-and-car_43
+  - first:
+      213: -5844422863830788987
+    second: damaged-road-and-car_44
+  - first:
+      213: 2393071302077536375
+    second: damaged-road-and-car_45
+  - first:
+      213: 7906721275715802609
+    second: damaged-road-and-car_46
+  - first:
+      213: 8254192131012703016
+    second: damaged-road-and-car_47
+  - first:
+      213: -6674750428828956246
+    second: damaged-road-and-car_48
+  - first:
+      213: -2963202025226965128
+    second: damaged-road-and-car_49
+  - first:
+      213: -8486215569580481995
+    second: damaged-road-and-car_50
+  - first:
+      213: 133090797678760416
+    second: damaged-road-and-car_51
+  - first:
+      213: 2151369501731980340
+    second: damaged-road-and-car_52
+  - first:
+      213: -7190470789610478957
+    second: damaged-road-and-car_53
+  - first:
+      213: -1053108498227547396
+    second: damaged-road-and-car_54
+  - first:
+      213: 5444670710002052905
+    second: damaged-road-and-car_55
+  - first:
+      213: -4324246013720071809
+    second: damaged-road-and-car_56
+  - first:
+      213: 4291086210108580744
+    second: damaged-road-and-car_57
+  - first:
+      213: 6021172537195200880
+    second: damaged-road-and-car_58
+  - first:
+      213: -4400925315621846309
+    second: damaged-road-and-car_59
+  - first:
+      213: 3035513996705692719
+    second: damaged-road-and-car_60
+  - first:
+      213: -4914404309456876393
+    second: damaged-road-and-car_61
+  - first:
+      213: 1784741046399053291
+    second: damaged-road-and-car_62
+  - first:
+      213: 4578496247222686929
+    second: damaged-road-and-car_63
+  - first:
+      213: 3898930732644988005
+    second: damaged-road-and-car_64
+  - first:
+      213: -84834385565249191
+    second: damaged-road-and-car_65
+  - first:
+      213: -7114446867617031959
+    second: damaged-road-and-car_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged-road-and-car_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed48e9894b9f2c20800000000000000
+      internalID: 3183934201722850792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_1
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 651
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d7cba5069cff20800000000000000
+      internalID: 3457803565014700575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 611
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1693b595f2cd417d0800000000000000
+      internalID: -2948489760100107935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 610
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e002c975e36450800000000000000
+      internalID: 6080956232988943879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844c7e0c1b01f630800000000000000
+      internalID: 3958957762565391500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eb77674a5bef7a0800000000000000
+      internalID: -6341431507324256759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddeb1f39d513fd80800000000000000
+      internalID: -8218200872210141737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 77
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d854e08c4240ba80800000000000000
+      internalID: -8453183604227024682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3eb000370ffb320800000000000000
+      internalID: 2576041888591897550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 69
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d3daddfaa0da030800000000000000
+      internalID: 3507471435246157174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_10
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 78
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70dceffea63a5e30800000000000000
+      internalID: 4492963703501410428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_11
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa2ea991fdc3b50800000000000000
+      internalID: 6574374857119805365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_12
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 82
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069eafddfbeec560800000000000000
+      internalID: 7336060318645130762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_13
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 77
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6852daf46c5c9b0800000000000000
+      internalID: -5060420560771250519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_14
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 43
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f385dd0e641455a90800000000000000
+      internalID: -7325877446172125121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_15
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 87
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2ab837214fd6e0800000000000000
+      internalID: -1810656888468394886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_16
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 79
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb60c16be3e20d80800000000000000
+      internalID: -8285809764311471109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_17
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 77
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97ed7f220af0010800000000000000
+      internalID: 1157319701305391524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_18
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a06bcfb427e7ef10800000000000000
+      internalID: 2299060279818543266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 59
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aa8631ad36817d0800000000000000
+      internalID: -2947496167834342796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_20
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 61
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1dc937a8e9a49c0800000000000000
+      internalID: -3942164206327115301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_21
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62e1d02125b87f0800000000000000
+      internalID: -609303087095601411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 79
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ab2193be3e2a0c0800000000000000
+      internalID: -4565836472785913299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921a5c38f4f8e3bb0800000000000000
+      internalID: -4954364968385011415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_24
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 46
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd80b604646f050800000000000000
+      internalID: 5833927609792650150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_25
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad37f135bf4d924c0800000000000000
+      internalID: -4311680992334089254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7921f77938deafe0800000000000000
+      internalID: -1175764711360091777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d03bec4d011cad0800000000000000
+      internalID: -2683845396749153010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 45
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aad6a684f9cf960800000000000000
+      internalID: 7637154201485552178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_29
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733a9d1ce12da4120800000000000000
+      internalID: 2398960781071328055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_30
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff9aced3b7c14740800000000000000
+      internalID: 5134604625529970679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_31
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 63
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7492131fc69ba950800000000000000
+      internalID: 6461423906515489914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_32
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbb5371b511bea0800000000000000
+      internalID: -5858877788343518411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_33
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 28
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a28ea4981a6830800000000000000
+      internalID: 4065088640517318344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 31
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d034fc960750bb0800000000000000
+      internalID: -4970443013982319272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04bd0af636c5950800000000000000
+      internalID: 6439130898324209902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 45
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dab61eea5a08730800000000000000
+      internalID: 3999378639629823329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e811a78038c5ad3e0800000000000000
+      internalID: -2028206964324298354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2589e282741b90800000000000000
+      internalID: -7272061591707374466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 17
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3385a6b34e10e99f0800000000000000
+      internalID: -459928032184215501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_40
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e7aec3634629a0800000000000000
+      internalID: -6258240536236791396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 41
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e6a4724de14340800000000000000
+      internalID: 4846415543708083852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_42
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 29
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0269e59373b035b90800000000000000
+      internalID: -7254442242950130144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_43
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b80f070a0e600b0800000000000000
+      internalID: -5762671693479769344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_44
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d134de5074eea0800000000000000
+      internalID: -5844422863830788987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_45
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 41
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77853829ba5e53120800000000000000
+      internalID: 2393071302077536375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_46
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 37
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55011db115abd60800000000000000
+      internalID: 7906721275715802609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_47
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 47
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82336d4b208cc8270800000000000000
+      internalID: 8254192131012703016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9834d69d58e53a0800000000000000
+      internalID: -6674750428828956246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fe0a0357790e6d0800000000000000
+      internalID: -2963202025226965128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53224cfb6e7ea3a80800000000000000
+      internalID: -8486215569580481995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 13
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e114861065d8d100800000000000000
+      internalID: 133090797678760416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_52
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340853d9233bdd10800000000000000
+      internalID: 2151369501731980340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_53
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392e171e9e0563c90800000000000000
+      internalID: -7190470789610478957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_54
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b335866b9261f0800000000000000
+      internalID: -1053108498227547396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_55
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f65a4e92b5f8b40800000000000000
+      internalID: 5444670710002052905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71f0de49213df3c0800000000000000
+      internalID: -4324246013720071809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88369164c200d8b30800000000000000
+      internalID: 4291086210108580744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 14
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0718bd265808f8350800000000000000
+      internalID: 6021172537195200880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd206571eb5cce2c0800000000000000
+      internalID: -4400925315621846309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c7e5ca5ef402a20800000000000000
+      internalID: 3035513996705692719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_61
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 14
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c8c2471578ccbb0800000000000000
+      internalID: -4914404309456876393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_62
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedaca6968ca4c810800000000000000
+      internalID: 1784741046399053291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_63
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4da2534161a8f30800000000000000
+      internalID: 4578496247222686929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_64
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564782b08d8cb1630800000000000000
+      internalID: 3898930732644988005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_65
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 17
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95115a7639b92def0800000000000000
+      internalID: -84834385565249191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged-road-and-car_66
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8db429448644d90800000000000000
+      internalID: -7114446867617031959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      damaged-road-and-car_0: 3183934201722850792
+      damaged-road-and-car_1: 3457803565014700575
+      damaged-road-and-car_10: 4492963703501410428
+      damaged-road-and-car_11: 6574374857119805365
+      damaged-road-and-car_12: 7336060318645130762
+      damaged-road-and-car_13: -5060420560771250519
+      damaged-road-and-car_14: -7325877446172125121
+      damaged-road-and-car_15: -1810656888468394886
+      damaged-road-and-car_16: -8285809764311471109
+      damaged-road-and-car_17: 1157319701305391524
+      damaged-road-and-car_18: 2299060279818543266
+      damaged-road-and-car_19: -2947496167834342796
+      damaged-road-and-car_2: -2948489760100107935
+      damaged-road-and-car_20: -3942164206327115301
+      damaged-road-and-car_21: -609303087095601411
+      damaged-road-and-car_22: -4565836472785913299
+      damaged-road-and-car_23: -4954364968385011415
+      damaged-road-and-car_24: 5833927609792650150
+      damaged-road-and-car_25: -4311680992334089254
+      damaged-road-and-car_26: -1175764711360091777
+      damaged-road-and-car_27: -2683845396749153010
+      damaged-road-and-car_28: 7637154201485552178
+      damaged-road-and-car_29: 2398960781071328055
+      damaged-road-and-car_3: 6080956232988943879
+      damaged-road-and-car_30: 5134604625529970679
+      damaged-road-and-car_31: 6461423906515489914
+      damaged-road-and-car_32: -5858877788343518411
+      damaged-road-and-car_33: 4065088640517318344
+      damaged-road-and-car_34: -4970443013982319272
+      damaged-road-and-car_35: 6439130898324209902
+      damaged-road-and-car_36: 3999378639629823329
+      damaged-road-and-car_37: -2028206964324298354
+      damaged-road-and-car_38: -7272061591707374466
+      damaged-road-and-car_39: -459928032184215501
+      damaged-road-and-car_4: 3958957762565391500
+      damaged-road-and-car_40: -6258240536236791396
+      damaged-road-and-car_41: 4846415543708083852
+      damaged-road-and-car_42: -7254442242950130144
+      damaged-road-and-car_43: -5762671693479769344
+      damaged-road-and-car_44: -5844422863830788987
+      damaged-road-and-car_45: 2393071302077536375
+      damaged-road-and-car_46: 7906721275715802609
+      damaged-road-and-car_47: 8254192131012703016
+      damaged-road-and-car_48: -6674750428828956246
+      damaged-road-and-car_49: -2963202025226965128
+      damaged-road-and-car_5: -6341431507324256759
+      damaged-road-and-car_50: -8486215569580481995
+      damaged-road-and-car_51: 133090797678760416
+      damaged-road-and-car_52: 2151369501731980340
+      damaged-road-and-car_53: -7190470789610478957
+      damaged-road-and-car_54: -1053108498227547396
+      damaged-road-and-car_55: 5444670710002052905
+      damaged-road-and-car_56: -4324246013720071809
+      damaged-road-and-car_57: 4291086210108580744
+      damaged-road-and-car_58: 6021172537195200880
+      damaged-road-and-car_59: -4400925315621846309
+      damaged-road-and-car_6: -8218200872210141737
+      damaged-road-and-car_60: 3035513996705692719
+      damaged-road-and-car_61: -4914404309456876393
+      damaged-road-and-car_62: 1784741046399053291
+      damaged-road-and-car_63: 4578496247222686929
+      damaged-road-and-car_64: 3898930732644988005
+      damaged-road-and-car_65: -84834385565249191
+      damaged-road-and-car_66: -7114446867617031959
+      damaged-road-and-car_7: -8453183604227024682
+      damaged-road-and-car_8: 2576041888591897550
+      damaged-road-and-car_9: 3507471435246157174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
