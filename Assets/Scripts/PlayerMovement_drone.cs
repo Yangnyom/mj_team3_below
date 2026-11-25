@@ -13,7 +13,7 @@ public class PlayerMovement_drone : MonoBehaviour
 
     [Header("맵 제한")]
     public float minX = -13f;
-    public float maxY = 8f;
+    public float maxY = 12f;
 
     [Header("스프라이트")]
     public Sprite idleSprite;
@@ -51,16 +51,20 @@ public class PlayerMovement_drone : MonoBehaviour
                 moveInput = 1f;
         }
 
-        float verticalVelocity = rb.linearVelocity.y;
+        float verticalVelocity = 0f;
 
-        if (Keyboard.current != null &&
-            (Keyboard.current.wKey.isPressed ||
-             Keyboard.current.upArrowKey.isPressed))
+        if (Keyboard.current != null)
         {
-            if (transform.position.y < maxY)
+            if (Keyboard.current.wKey.isPressed ||
+                Keyboard.current.upArrowKey.isPressed)
+            {
                 verticalVelocity = flySpeed;
-            else
-                verticalVelocity = 0f;
+            }
+            else if (Keyboard.current.sKey.isPressed ||
+                     Keyboard.current.downArrowKey.isPressed)
+            {
+                verticalVelocity = -flySpeed;
+            }
         }
 
         rb.linearVelocity = new Vector2(

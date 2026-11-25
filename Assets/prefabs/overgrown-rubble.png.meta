@@ -1,0 +1,1828 @@
+fileFormatVersion: 2
+guid: 2e1b8d46f48e32f439ab342ad6d7b26a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7865031512079332439
+    second: overgrown-rubble_0
+  - first:
+      213: 5966165654613288251
+    second: overgrown-rubble_1
+  - first:
+      213: 2518121723095804207
+    second: overgrown-rubble_2
+  - first:
+      213: -5876612314167811276
+    second: overgrown-rubble_3
+  - first:
+      213: 7358943100693501382
+    second: overgrown-rubble_4
+  - first:
+      213: 1099030117408791188
+    second: overgrown-rubble_5
+  - first:
+      213: -4671585910489307097
+    second: overgrown-rubble_6
+  - first:
+      213: -1544842872698934400
+    second: overgrown-rubble_7
+  - first:
+      213: -4183526812176684670
+    second: overgrown-rubble_8
+  - first:
+      213: -3349457670832767120
+    second: overgrown-rubble_9
+  - first:
+      213: -8098042133646436757
+    second: overgrown-rubble_10
+  - first:
+      213: -8978037173647104968
+    second: overgrown-rubble_11
+  - first:
+      213: -6480573485250080193
+    second: overgrown-rubble_12
+  - first:
+      213: 510541376928594669
+    second: overgrown-rubble_13
+  - first:
+      213: 1755551223807989268
+    second: overgrown-rubble_14
+  - first:
+      213: 3851583841789910399
+    second: overgrown-rubble_15
+  - first:
+      213: 4863189658351726712
+    second: overgrown-rubble_16
+  - first:
+      213: -8115372796911208197
+    second: overgrown-rubble_17
+  - first:
+      213: 5791060804337699742
+    second: overgrown-rubble_18
+  - first:
+      213: -5624946802875515973
+    second: overgrown-rubble_19
+  - first:
+      213: -2875251546093137143
+    second: overgrown-rubble_20
+  - first:
+      213: 5244353006671501103
+    second: overgrown-rubble_21
+  - first:
+      213: 4777114917762693106
+    second: overgrown-rubble_22
+  - first:
+      213: 2761618509505367585
+    second: overgrown-rubble_23
+  - first:
+      213: 8763689519923052257
+    second: overgrown-rubble_24
+  - first:
+      213: 2609350231554785217
+    second: overgrown-rubble_25
+  - first:
+      213: -3516290769516418580
+    second: overgrown-rubble_26
+  - first:
+      213: 2214865852137379350
+    second: overgrown-rubble_27
+  - first:
+      213: -8683462515820924083
+    second: overgrown-rubble_28
+  - first:
+      213: -1871308537557447464
+    second: overgrown-rubble_29
+  - first:
+      213: 3297009972549398626
+    second: overgrown-rubble_30
+  - first:
+      213: 7187034190386710897
+    second: overgrown-rubble_31
+  - first:
+      213: -1123151708802575240
+    second: overgrown-rubble_32
+  - first:
+      213: 2978913895921091471
+    second: overgrown-rubble_33
+  - first:
+      213: -6024426829655968987
+    second: overgrown-rubble_34
+  - first:
+      213: -5490549374617087583
+    second: overgrown-rubble_35
+  - first:
+      213: 345551379835463061
+    second: overgrown-rubble_36
+  - first:
+      213: -6756002147761553499
+    second: overgrown-rubble_37
+  - first:
+      213: -517587302733530706
+    second: overgrown-rubble_38
+  - first:
+      213: 8469074557281010883
+    second: overgrown-rubble_39
+  - first:
+      213: -1211345962840080389
+    second: overgrown-rubble_40
+  - first:
+      213: -5246603480974168798
+    second: overgrown-rubble_41
+  - first:
+      213: 5143372906079267271
+    second: overgrown-rubble_42
+  - first:
+      213: -8236442101527847768
+    second: overgrown-rubble_43
+  - first:
+      213: -1210493529138458877
+    second: overgrown-rubble_44
+  - first:
+      213: 7935703082444435264
+    second: overgrown-rubble_45
+  - first:
+      213: 3293358491716537761
+    second: overgrown-rubble_46
+  - first:
+      213: 5410066464686207945
+    second: overgrown-rubble_47
+  - first:
+      213: -4735390018072117243
+    second: overgrown-rubble_48
+  - first:
+      213: 4046312765414223469
+    second: overgrown-rubble_49
+  - first:
+      213: 3038739427828532988
+    second: overgrown-rubble_50
+  - first:
+      213: 244863579505283025
+    second: overgrown-rubble_51
+  - first:
+      213: 8481414569017947147
+    second: overgrown-rubble_52
+  - first:
+      213: -8161949475793623102
+    second: overgrown-rubble_53
+  - first:
+      213: 9129468184082922101
+    second: overgrown-rubble_54
+  - first:
+      213: 3159495110910422230
+    second: overgrown-rubble_55
+  - first:
+      213: 8044052080909756161
+    second: overgrown-rubble_56
+  - first:
+      213: 8038955020173783195
+    second: overgrown-rubble_57
+  - first:
+      213: 1309292284943772276
+    second: overgrown-rubble_58
+  - first:
+      213: 7584565156909759091
+    second: overgrown-rubble_59
+  - first:
+      213: 4719985168290594138
+    second: overgrown-rubble_60
+  - first:
+      213: 7003087839225106065
+    second: overgrown-rubble_61
+  - first:
+      213: -4430161452996489331
+    second: overgrown-rubble_62
+  - first:
+      213: -906826337968598611
+    second: overgrown-rubble_63
+  - first:
+      213: -3617715681231471068
+    second: overgrown-rubble_64
+  - first:
+      213: -2955244590794430484
+    second: overgrown-rubble_65
+  - first:
+      213: -6747641602052181801
+    second: overgrown-rubble_66
+  - first:
+      213: -3717028173613815966
+    second: overgrown-rubble_67
+  - first:
+      213: 9178800000419150911
+    second: overgrown-rubble_68
+  - first:
+      213: 1139673962439295951
+    second: overgrown-rubble_69
+  - first:
+      213: -490435506363288193
+    second: overgrown-rubble_70
+  - first:
+      213: -7603780368665246413
+    second: overgrown-rubble_71
+  - first:
+      213: 252253958106080870
+    second: overgrown-rubble_72
+  - first:
+      213: 7246430413743921652
+    second: overgrown-rubble_73
+  - first:
+      213: 5736076482143831876
+    second: overgrown-rubble_74
+  - first:
+      213: 1672283322922516261
+    second: overgrown-rubble_75
+  - first:
+      213: 165847147258281194
+    second: overgrown-rubble_76
+  - first:
+      213: 8485813060805461181
+    second: overgrown-rubble_77
+  - first:
+      213: -6829735543104831119
+    second: overgrown-rubble_78
+  - first:
+      213: -8544692807072365521
+    second: overgrown-rubble_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overgrown-rubble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 2172
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab024fa28bc9d290800000000000000
+      internalID: -7865031512079332439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29e1569d5a22f220800000000000000
+      internalID: 2518121723095804207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 455
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43367536c34127ea0800000000000000
+      internalID: -5876612314167811276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 470
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a5b91a11a804f00800000000000000
+      internalID: 1099030117408791188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_10
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 427
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b669bdfa599fd9f80800000000000000
+      internalID: -8098042133646436757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 440
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329ade20c06016a0800000000000000
+      internalID: -6480573485250080193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_13
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 447
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deab7f66daec51700800000000000000
+      internalID: 510541376928594669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_14
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 435
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d3186988fc5810800000000000000
+      internalID: 1755551223807989268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_15
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9588f813937530800000000000000
+      internalID: 3851583841789910399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_16
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 445
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870786d5a358d7340800000000000000
+      internalID: 4863189658351726712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 433
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf83d343077606f80800000000000000
+      internalID: -8115372796911208197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 431
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d93bd3fd0918d0800000000000000
+      internalID: -2875251546093137143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_21
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 435
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271867164fa7c840800000000000000
+      internalID: 5244353006671501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_22
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 419
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f67c15b8bb4240800000000000000
+      internalID: 4777114917762693106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_24
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 415
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb3d4bf21ee9970800000000000000
+      internalID: 8763689519923052257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 96
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f21c49d42e7780800000000000000
+      internalID: -8683462515820924083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_30
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 79
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603aba0a1551cd20800000000000000
+      internalID: 3297009972549398626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_31
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 93
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179469284897db360800000000000000
+      internalID: 7187034190386710897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_32
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 79
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87413f7b873c960f0800000000000000
+      internalID: -1123151708802575240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_33
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 23
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f830ad6c76a375920800000000000000
+      internalID: 2978913895921091471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_34
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 55
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523f50b97bfe46ca0800000000000000
+      internalID: -6024426829655968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 71
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a194381f66adc3b0800000000000000
+      internalID: -5490549374617087583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_36
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 85
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5952dbe2625abc400800000000000000
+      internalID: 345551379835463061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_37
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af75e867dbdd32a0800000000000000
+      internalID: -6756002147761553499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_38
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 17
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9b058271921d8f0800000000000000
+      internalID: -517587302733530706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 61
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c488035072388570800000000000000
+      internalID: 8469074557281010883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 25
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff30d8c34f603fe0800000000000000
+      internalID: -1211345962840080389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_41
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22de4378ee15037b0800000000000000
+      internalID: -5246603480974168798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c92936486ee06740800000000000000
+      internalID: 5143372906079267271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_43
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 29
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5c551c8742bd80800000000000000
+      internalID: -8236442101527847768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_44
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 67
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f0bc87c86733fe0800000000000000
+      internalID: -1210493529138458877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_45
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 63
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa21888e7412e60800000000000000
+      internalID: 7935703082444435264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adc7c8691c54bd20800000000000000
+      internalID: 3293358491716537761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ffde29ca641b40800000000000000
+      internalID: 5410066464686207945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_50
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 49
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf681b0e865cb2a20800000000000000
+      internalID: 3038739427828532988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 53
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc7d2d02ee56300800000000000000
+      internalID: 244863579505283025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_52
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 45
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0433233d9904b570800000000000000
+      internalID: 8481414569017947147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_53
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 37
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a2a4123eeabe80800000000000000
+      internalID: -8161949475793623102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_54
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 15
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a3e7481f262be70800000000000000
+      internalID: 9129468184082922101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_55
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 47
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc266b4018c8db20800000000000000
+      internalID: 3159495110910422230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903dc6affa109f60800000000000000
+      internalID: 8038955020173783195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_59
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 30
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a396153d9c14960800000000000000
+      internalID: 7584565156909759091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_60
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db215c081c08140800000000000000
+      internalID: 4719985168290594138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_61
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 37
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecedb2947ff2160800000000000000
+      internalID: 7003087839225106065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_62
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f048861a7e482c0800000000000000
+      internalID: -4430161452996489331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_63
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 17
+        width: 134
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d96c004e4a63f0800000000000000
+      internalID: -906826337968598611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_64
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e76d161ca4bcdc0800000000000000
+      internalID: -3617715681231471068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_65
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ad45c3bcdcf6d0800000000000000
+      internalID: -2955244590794430484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_66
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 18
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d03806a6bf8b52a0800000000000000
+      internalID: -6747641602052181801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_67
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 33
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26721abd1967a6cc0800000000000000
+      internalID: -3717028173613815966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_68
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb65118f5a16f70800000000000000
+      internalID: 9178800000419150911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_69
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 25
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c4fa3e6fe0df00800000000000000
+      internalID: 1139673962439295951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_70
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 25
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f753af1618f9139f0800000000000000
+      internalID: -490435506363288193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_71
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3358e9f8a02f97690800000000000000
+      internalID: -7603780368665246413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_72
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666691e63af208300800000000000000
+      internalID: 252253958106080870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_73
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 17
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f91bcc611e709460800000000000000
+      internalID: 7246430413743921652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_74
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c7a26b23aa9f40800000000000000
+      internalID: 5736076482143831876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_75
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 17
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f3b9272d4253710800000000000000
+      internalID: 1672283322922516261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_76
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 17
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec775b0a153d4200800000000000000
+      internalID: 165847147258281194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_77
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 13
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40eafd40aa3c570800000000000000
+      internalID: 8485813060805461181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_78
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 23
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171806385b7e731a0800000000000000
+      internalID: -6829735543104831119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overgrown-rubble_79
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cd97e9272b6980800000000000000
+      internalID: -8544692807072365521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 25db1cedb41ee6e43831377dc9c45bb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      overgrown-rubble_0: -7865031512079332439
+      overgrown-rubble_1: 5966165654613288251
+      overgrown-rubble_10: -8098042133646436757
+      overgrown-rubble_11: -8978037173647104968
+      overgrown-rubble_12: -6480573485250080193
+      overgrown-rubble_13: 510541376928594669
+      overgrown-rubble_14: 1755551223807989268
+      overgrown-rubble_15: 3851583841789910399
+      overgrown-rubble_16: 4863189658351726712
+      overgrown-rubble_17: -8115372796911208197
+      overgrown-rubble_18: 5791060804337699742
+      overgrown-rubble_19: -5624946802875515973
+      overgrown-rubble_2: 2518121723095804207
+      overgrown-rubble_20: -2875251546093137143
+      overgrown-rubble_21: 5244353006671501103
+      overgrown-rubble_22: 4777114917762693106
+      overgrown-rubble_23: 2761618509505367585
+      overgrown-rubble_24: 8763689519923052257
+      overgrown-rubble_25: 2609350231554785217
+      overgrown-rubble_26: -3516290769516418580
+      overgrown-rubble_27: 2214865852137379350
+      overgrown-rubble_28: -8683462515820924083
+      overgrown-rubble_29: -1871308537557447464
+      overgrown-rubble_3: -5876612314167811276
+      overgrown-rubble_30: 3297009972549398626
+      overgrown-rubble_31: 7187034190386710897
+      overgrown-rubble_32: -1123151708802575240
+      overgrown-rubble_33: 2978913895921091471
+      overgrown-rubble_34: -6024426829655968987
+      overgrown-rubble_35: -5490549374617087583
+      overgrown-rubble_36: 345551379835463061
+      overgrown-rubble_37: -6756002147761553499
+      overgrown-rubble_38: -517587302733530706
+      overgrown-rubble_39: 8469074557281010883
+      overgrown-rubble_4: 7358943100693501382
+      overgrown-rubble_40: -1211345962840080389
+      overgrown-rubble_41: -5246603480974168798
+      overgrown-rubble_42: 5143372906079267271
+      overgrown-rubble_43: -8236442101527847768
+      overgrown-rubble_44: -1210493529138458877
+      overgrown-rubble_45: 7935703082444435264
+      overgrown-rubble_46: 3293358491716537761
+      overgrown-rubble_47: 5410066464686207945
+      overgrown-rubble_48: -4735390018072117243
+      overgrown-rubble_49: 4046312765414223469
+      overgrown-rubble_5: 1099030117408791188
+      overgrown-rubble_50: 3038739427828532988
+      overgrown-rubble_51: 244863579505283025
+      overgrown-rubble_52: 8481414569017947147
+      overgrown-rubble_53: -8161949475793623102
+      overgrown-rubble_54: 9129468184082922101
+      overgrown-rubble_55: 3159495110910422230
+      overgrown-rubble_56: 8044052080909756161
+      overgrown-rubble_57: 8038955020173783195
+      overgrown-rubble_58: 1309292284943772276
+      overgrown-rubble_59: 7584565156909759091
+      overgrown-rubble_6: -4671585910489307097
+      overgrown-rubble_60: 4719985168290594138
+      overgrown-rubble_61: 7003087839225106065
+      overgrown-rubble_62: -4430161452996489331
+      overgrown-rubble_63: -906826337968598611
+      overgrown-rubble_64: -3617715681231471068
+      overgrown-rubble_65: -2955244590794430484
+      overgrown-rubble_66: -6747641602052181801
+      overgrown-rubble_67: -3717028173613815966
+      overgrown-rubble_68: 9178800000419150911
+      overgrown-rubble_69: 1139673962439295951
+      overgrown-rubble_7: -1544842872698934400
+      overgrown-rubble_70: -490435506363288193
+      overgrown-rubble_71: -7603780368665246413
+      overgrown-rubble_72: 252253958106080870
+      overgrown-rubble_73: 7246430413743921652
+      overgrown-rubble_74: 5736076482143831876
+      overgrown-rubble_75: 1672283322922516261
+      overgrown-rubble_76: 165847147258281194
+      overgrown-rubble_77: 8485813060805461181
+      overgrown-rubble_78: -6829735543104831119
+      overgrown-rubble_79: -8544692807072365521
+      overgrown-rubble_8: -4183526812176684670
+      overgrown-rubble_80: -134118886
+      overgrown-rubble_9: -3349457670832767120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
